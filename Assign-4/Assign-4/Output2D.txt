@@ -1,0 +1,68 @@
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (41.6667, 61.6667 )
+Incircle     : (43.1283, 58.029 )
+CircumCircle : (134.773, 150.682 )
+Area         :  412.5
+Centroid     : (62.3333, 74.6667 )
+Incircle     : (78.8389, 91.8285 )
+CircumCircle : (66.8913, 51.6739 )
+Area         :  230
