@@ -1,0 +1,10 @@
+202412001	1	Pravin Mhaske	-1	-1	-1	-1	-1	-1	1	
+202412002	2	Ganesh Shinde	-1	-1	-1	-1	-1	-1	1	
+202412003	3	Teajs Avhad	-1	-1	-1	-1	-1	-1	1	
+202412004	4	Vivek Mote	-1	-1	-1	-1	-1	-1	1	
+202412005	5	Tushar Rathod	-1	-1	-1	-1	-1	-1	1	
+202412006	6	Rahul Gambhire	-1	-1	-1	-1	-1	-1	1	
+202412007	7	Omkar Jagtap	-1	-1	-1	-1	-1	-1	1	
+202412008	8	Shubham Pawar	-1	-1	-1	-1	-1	-1	1	
+202412009	9	Shubham Kaspate	-1	-1	-1	-1	-1	-1	1	
+202412010	10	Sandip Gain	12	34	56	77	88	99	1	
